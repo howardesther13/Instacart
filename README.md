@@ -22,5 +22,5 @@ The 4 original datasets used for this project contain information on products, o
 - We need to know what part of our offering has the lowest market share and why. Based on this input, we could improve this sector and boost sales.
 
 ### Project deliverables
-- [Visualizations via Python](04 Analysis/Visualizations/)
-- [Final Report](05 Sent to Client/A4_final_report_template_Esther Howard)
+- Visualizations via Python (04 Analysis/Visualizations)
+- Final Report (05 Sent to Client/A4_final_report_template_Esther Howard.xls)
